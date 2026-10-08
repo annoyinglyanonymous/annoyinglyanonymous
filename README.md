@@ -8,7 +8,7 @@ I design and ship FastAPI, LLM, and automation systems for outreach, experimenta
 A self-optimising outreach engine that uses a multi-armed bandit to learn which channels and message angles perform best, then feeds real reply outcomes back into the model to improve future sends.
 
 ### [Outreach-Automation](https://github.com/annoyinglyanonymous/Outreach-Automation)
-A queue-based outreach pipeline that enriches contacts, finds LinkedIn profiles, scrapes profile data, verifies matches with AI, drafts personalized copy, and only sends after a human approval.
+A queue-based outreach pipeline that enriches contacts, finds profile matches, scrapes profile data, verifies matches with AI, drafts personalized copy, and only sends after a human approval.
 
 ### [RAG-Implementation](https://github.com/annoyinglyanonymous/RAG-Implementation)
 A retrieval-augmented generation implementation focused on grounding LLM responses in structured knowledge and document retrieval for more reliable, explainable AI workflows.
