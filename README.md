@@ -2,7 +2,7 @@
 
 I build AI-powered automation systems that connect APIs, business logic, LLMs, and data into reliable workflows.
 
-My work focuses on **FastAPI, Python, LLMs, workflow automation, API integrations, and human-in-the-loop systems**—with an emphasis on correctness, observability, and maintainability.
+My work focuses on **Python, FastAPI, LLMs, workflow automation, API integrations, and AI-powered business systems**, with an emphasis on correctness, observability, and human-in-the-loop workflows.
 
 ## Featured Projects
 
@@ -13,11 +13,11 @@ A self-optimising outreach experimentation system that uses a **multi-armed band
 **What it demonstrates:**
 
 * FastAPI backend
-* Experimentation and optimization logic
-* Multi-armed bandit algorithms
-* LLM-assisted decision making
+* LLM integration
+* Multi-armed bandit experimentation
+* Automated decision-making
 * Outcome tracking and feedback loops
-* Automated experimentation
+* Experimentation and optimization
 
 **Results:**
 
@@ -54,6 +54,27 @@ The system handles **contact enrichment, profile matching, data extraction, AI v
 
 ---
 
+### Ads Growth Engine
+
+An AI-assisted advertising workflow designed to automate **ad research, creative analysis, competitor intelligence, and campaign decision support**.
+
+The system uses automation and AI to turn advertising data into structured insights and actionable recommendations.
+
+**What it demonstrates:**
+
+* Ad data collection and processing
+* AI-powered ad analysis
+* Competitor research
+* LLM-based classification and analysis
+* Automated reporting
+* API integrations
+* Workflow automation
+* Decision-support systems
+
+The goal is to reduce the manual effort required to research competitors, evaluate creative patterns, and turn advertising data into useful business decisions.
+
+---
+
 ### [RAG-Implementation](https://github.com/annoyinglyanonymous/RAG-Implementation)
 
 A retrieval-augmented generation implementation focused on grounding LLM responses in external knowledge rather than relying only on model-generated information.
@@ -68,50 +89,56 @@ A retrieval-augmented generation implementation focused on grounding LLM respons
 * Context construction
 * Knowledge-grounded generation
 
-The project explores how retrieval and structured context can improve the reliability and explainability of LLM-powered applications.
+## Technical Stack
 
----
+### AI & LLM
 
-## What I Work With
+`OpenAI` · `Claude` · `Gemini` · `RAG` · `LangGraph` · `Prompt Engineering` · `AI Agents` · `Vector Search`
 
-**AI & LLMs**
+### Backend & Development
 
-`OpenAI` · `LLMs` · `RAG` · `Prompt Engineering` · `AI Agents` · `Vector Search`
+`Python` · `FastAPI` · `TypeScript` · `JavaScript` · `REST APIs` · `Webhooks` · `JSON`
 
-**Backend & Development**
+### Workflow Automation
 
-`Python` · `FastAPI` · `TypeScript` · `REST APIs` · `Webhooks` · `JSON`
+`n8n` · `Make` · `Zapier` · `GoHighLevel` · `Google Apps Script`
 
-**Automation & Integrations**
-
-`n8n` · `Make` · `Zapier` · `API Integrations` · `Workflow Automation`
-
-**Data & Infrastructure**
+### Data & Infrastructure
 
 `Supabase` · `PostgreSQL` · `Docker` · `Git` · `GitHub`
+
+### Integrations
+
+`OpenAI API` · `Anthropic API` · `Google APIs` · `CRM APIs` · `Webhooks` · `Third-party APIs`
 
 ## Engineering Focus
 
 I am particularly interested in building systems that:
 
-* Replace repetitive manual business processes with automation
+* Automate repetitive business processes
 * Connect multiple APIs and services into reliable workflows
 * Use LLMs where traditional deterministic logic is insufficient
+* Combine AI with deterministic business rules
 * Keep humans involved when automated decisions require review
 * Handle failures, retries, rate limits, and unexpected data
-* Provide clear visibility into workflow execution and outcomes
+* Provide visibility into workflow execution and outcomes
+* Turn manual processes into scalable automation systems
 
-## Results
+## Automation Experience
 
-Across my automation projects, I have worked on systems involving:
+I have worked on automation systems involving:
 
 * Lead enrichment and routing
 * AI-powered qualification and verification
+* CRM automation
 * Automated outreach and personalization
-* CRM and business-process automation
-* Knowledge retrieval and RAG
-* AI-assisted decision support
+* Advertising and competitor intelligence
+* Healthcare workflow automation
+* Data processing and transformation
 * API and webhook integrations
+* AI agents and LLM workflows
+* Knowledge retrieval and RAG
+* Human-in-the-loop decision systems
 
 ## Connect
 
